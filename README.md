@@ -15,7 +15,7 @@
 This module is for creating a Discussion Forums, aka BBS (Bulletin Boards).
 
 ![image001.png](assets/image001.jpg)
-*Figure 1: Main view of the XXX Module (Admin side)*
+*Figure 1: Main view of the NewBB Module (Admin side)*
 
 ### Key Features
 
