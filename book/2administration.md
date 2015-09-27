@@ -32,3 +32,40 @@ In the Admin Menu, there are following key menu Tabs:
 
 Let's explore in detail each of them:
 
+#### Index
+
+
+####  Categories
+
+
+####  Forums
+
+
+####  Permissions
+
+
+####  Order
+
+
+####  Prune
+
+
+####  Reports
+
+
+####  Digest
+
+
+####  Votes
+
+
+####  Topic types
+
+
+####  Group Moderate
+
+
+####  Sync Forums
+
+
+####  About
