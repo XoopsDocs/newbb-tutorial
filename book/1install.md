@@ -4,3 +4,17 @@
 2. Using your usual FTP client upload the smartfaq directory to you 'modules' directory of your website files.<br> <br> 
 3. Open your website administration page and go to 'modules'<br> <br> 
 4. Install the module by clicking the install link. A confirmation page should give you a link back to 'module administration page'
+
+No special measures are necessary, follow the standard installation process – extract the module folder into the /modules directory. Install the module through Admin -> Modules -> Install Modules (see below). 
+ 
+![img_2.jpg](../assets/img_4.jpg)  
+
+**Figure 2 The Module Administration and Installation**
+
+Detailed instructions on installing modules are available in the XOOPS Operations Manual. 
+To uninstall the module, just click on the red arrow:
+
+![img_2.jpg](../assets/img_5.jpg)  
+
+**Figure 3 The Module Administration and uninstallation**
+ 
