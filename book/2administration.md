@@ -102,18 +102,48 @@ Instead of just deleting them, you can also move them to a specific location (e.
 ####  Reports
 ![](../assets/newbb_admin_reports.jpg)
 
-
+When somebody posts messages that are against the rules, the users can report these messages to you. You can then review these messages here and take appropriate actions.
 
 ####  Digest
 
+![](../assets/newbb_admin_digest.jpg)
+
+"Digest Manager" is designed for sending digest through emails, not for the digested threads themselves.
+
+Digest has two major functionalities:
+
+1. marked with a special label indication the thread is important or valuable
+
+2. sending digest though email: it lets members to read valuable thread periodically, e.g. once a week. 
+
+A digest is marked by a moderator or webmaster through "topic manager", in other words, it is judged totally by the one who marks it.
 
 ####  Votes
 
+![](../assets/newbb_admin_votes.jpg)
+
+You can allow your users to vote on individual topics, to see what is "hot", and what is not. Here in this tab you can review the votes and see if they are legit, or if somebody is trying to manipulate the voting. In such case, you can delete the votes and take appropriate actions. 
 
 ####  Topic types
 
+![](../assets/newbb_admin_types.jpg)
+
+Sometimes you would like to have the option to highlight specific topics. You can that by creating "Types" and assigning a color to them:
+
+
+![](../assets/newbb_admin_typesAdded.jpg)
+
+Once you have created Types in your NewBB, you can now select Forums by clicking on the "Type per forum" button and selecting the Forums:
+
+![](../assets/newbb_admin_typesSelectForum.jpg)
+
+After submitting the Forum selection, you can now add the Types of you choice to the selected Forums, by assigning a value greater than 0 for the particual Type:
+
+![](../assets/newbb_admin_typesToForum.jpg)
+
 
 ####  Group Moderate
+
 
 
 ####  Sync Forums
