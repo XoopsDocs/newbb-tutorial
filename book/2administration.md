@@ -29,3 +29,6 @@ In the Admin Menu, there are following key menu Tabs:
 * Group Moderate
 * Sync Forums
 * About
+
+Let's explore in detail each of them:
+
