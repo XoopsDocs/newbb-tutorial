@@ -144,9 +144,20 @@ After submitting the Forum selection, you can now add the Types of you choice to
 
 ####  Group Moderate
 
+![](../assets/newbb_admin_moderate.jpg)
 
+Sometimes, on some "public" forums, there is a need to moderate the forums, to make sure that everybody is treating each other and is behaving the way it is spelled out in the Forum rules and regulations. The "Group Moderate" tab allows you to select a forum and then assign a particular group as a moderator:
+
+![](../assets/newbb_admin_moderate_selected.jpg)
+
+![](../assets/info/tips.gif) You can create a specific Group just for the moderation purpose, and then assign individual members to it. Of course, there is no limitation on this, so you could create a "moderation group" to be responsible for each individual Forum, and then assign somebody to it, but this would be an overkill. 
 
 ####  Sync Forums
+![](../assets/newbb_admin_sync.jpg)
 
+Sometimes, maybe because of a crash of you Website, some of the records might get corrupted and out of sync. The "Sync Forums" tab will help you with getting the forums and the posts is sync.
 
 ####  About
+![](../assets/newbb_admin_help.jpg)
+
+Finally, the "About" tab will provide you with more info about the module itself, like version number, release date, authors, and the changelog. 
