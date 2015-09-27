@@ -14,8 +14,6 @@ There are four options on top:
 
 In the Admin Menu, there are following key menu Tabs:
 
-![](../assets/image001.jpg)
-
 * Index
 * Categories
 * Forums
@@ -33,6 +31,8 @@ In the Admin Menu, there are following key menu Tabs:
 Let's explore in detail each of them:
 
 #### Index
+![](../assets/image001.jpg)
+
 
 
 ####  Categories
