@@ -12,9 +12,9 @@
 
 ## Module Purpose 
 
-This module is for creating a Discussion Forums.
+This module is for creating a Discussion Forums, aka BBS (Bulletin Boards).
 
-![image001.png](assets/image001.png)
+![image001.png](assets/image001.jpg)
 *Figure 1: Main view of the XXX Module (Admin side)*
 
 ### Key Features
