@@ -2,6 +2,8 @@
 
 NewBB has 6 blocks available to use:
 
+![](../assets/newbb_admin_blocks.jpg)
+
 |Block|Description|
 |---|---|
 |Recent Replied Topics. It Will drop (use advance topic renderer block)|You can define criteria  how to select the Topics, e.g. most recent, most views, most replies, newest digest. You can also select Forums. |
