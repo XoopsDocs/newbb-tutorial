@@ -150,7 +150,9 @@ Sometimes, on some "public" forums, there is a need to moderate the forums, to m
 
 ![](../assets/newbb_admin_moderate_selected.jpg)
 
-![](../assets/info/tips.gif) You can create a specific Group just for the moderation purpose, and then assign individual members to it. Of course, there is no limitation on this, so you could create a "moderation group" to be responsible for each individual Forum, and then assign somebody to it, but this would be an overkill. 
+![](../assets/info/tips.gif) You can create a specific Group just for the moderation purpose, and then assign individual members to it. Of course, there is no limitation on this, so you could create a "moderation group" to be responsible for each individual Forum, and then assign somebody to it, but this would be an overkill.
+
+A better way is to assign a group (or groups) for several Forums, and then go back to each individual Forums, and select those individuals who you want to be a Moderator for that particular Forum. 
 
 ####  Sync Forums
 ![](../assets/newbb_admin_sync.jpg)
