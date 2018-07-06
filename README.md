@@ -1,9 +1,9 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 #### _XOOPS Documentation Series_
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## Module NewBB \(Discussion Forums\)
 
@@ -13,14 +13,14 @@
 
 ### User Manual
 
-![image001.png](assets/image001.jpg)
+![](assets/image001.jpg)
 *Figure 1: Main view of the NewBB Module (Admin side)*
 
 ### Module Purpose
 
 This module is for creating a Discussion Forums, aka BBS \(Bulletin Boards\).
 
-![image001.png](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/assets/image001.jpg) _Figure 1: Main view of the NewBB Module \(Admin side\)_
+![](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/assets/image001.jpg) _Figure 1: Main view of the NewBB Module \(Admin side\)_
 
 #### Key Features
 

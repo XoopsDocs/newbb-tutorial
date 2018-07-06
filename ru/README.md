@@ -1,10 +1,10 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Модуль NewBB (Форумы)
 #### для XOOPS 2.5.9
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## Руководство пользователя
 
@@ -14,7 +14,7 @@
 
 Этот модуль предназначен для создания дискуссионных форумов, а также BBS (бюллетеней).
 
-![image001.png](assets/image001.jpg)
+![](assets/image001.jpg)
 *Фигура 1: Основной вид модуля NewBB (сторона администратора)*
 
 ### Ключевые особенности
