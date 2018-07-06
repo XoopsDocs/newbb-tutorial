@@ -1,9 +1,10 @@
-# Introduction
+### _XOOPS Documentation Series_
+![logoXoops.jpg](assets/logoXoops.jpg)
 
 #### _XOOPS Documentation Series_
-
-![logoXoops.jpg](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/assets/logoXoops.jpg)
-
+      
+![logoModule.png](assets/logoModule.png)
+            
 ## Module NewBB \(Discussion Forums\)
 
 **for XOOPS 2.5.7**
@@ -12,7 +13,8 @@
 
 ### User Manual
 
-© 2015 The XOOPS Project \([www.xoops.org](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/www.xoops.org)\)
+![image001.png](assets/image001.jpg)
+*Figure 1: Main view of the NewBB Module (Admin side)*
 
 ### Module Purpose
 
@@ -47,7 +49,7 @@ This module is for creating a Discussion Forums, aka BBS \(Bulletin Boards\).
 * Disclaimer \(Choose to display Reply / Post / Both / None\)
 * Reply first before seeing the other replies
 
-### Download/Fork the Module ![](http://xoops.org/images/forkit.png)
+## Download/Fork the Module ![](https://xoops.org/images/forkit.png) 
 
 **You can fork the module --&gt;** [**here**](https://github.com/XoopsModules25x/newbb)**\)**
 
@@ -70,10 +72,20 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/9credits.md)
 * [About XOOPS CMS](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/10aboutxoops.md)
 
-### License:
+* [Install/Uninstall](book/1install.md)
+* [Administration Menu](book/2administration.md)
+* [Preferences](book/3preferences.md)
+* [Operating Instructions](book/4operations.md)
+* [The User Side](book/5userside.md)
+* [Blocks](book/6blocks.md)
+* [Templates](book/7templates.md)
+* [Miscellaneous](book/8other.md) 
+* [Module Credits](book/9credits.md)
+* [About XOOPS CMS](book/10aboutxoops.md)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
-All derivative works are to be attributed to XOOPS Project \([www.xoops.org](http://xoops.org)\)
+All derivative works are to be attributed to XOOPS Project \([www.xoops.org](https://xoops.org)\)
 
+All derivative works are to be attributed to XOOPS Project ([www.xoops.org](https://xoops.org))
