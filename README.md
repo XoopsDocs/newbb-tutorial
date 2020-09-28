@@ -1,16 +1,13 @@
 ### _XOOPS Documentation Series_
-![](assets/logoXoops.jpg)
+![](en/assets/logoXoops.jpg)
 
 #### _XOOPS Documentation Series_
       
 ![](en/assets/logoModule.png)
             
-## Module NewBB \(Discussion Forums\)
+## Module NewBB 5.0 
 
-**for XOOPS 2.5.10**
-
-![logoModule.png](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/assets/logoModule.png)
-
+**for XOOPS 2.5.10 &  PHP 7.2+**
 ### User Manual
 
 ![](en/assets/image001.jpg)
