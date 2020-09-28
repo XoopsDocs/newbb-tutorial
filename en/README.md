@@ -1,10 +1,12 @@
 ### _XOOPS Documentation Series_
-![logoXoops.jpg](assets/logoXoops.jpg)
+![](assets/logoXoops.jpg)
 
 # Module NewBB (Discussion Forums)
-#### for XOOPS 2.5.7
+#### for XOOPS 2.5.10+
+
+#### for PHP 7.1+
       
-![logoModule.png](assets/logoModule.png)
+![](assets/logoModule.png)
             
 ## User Manual
 
@@ -14,7 +16,7 @@
 
 This module is for creating a Discussion Forums, aka BBS (Bulletin Boards).
 
-![image001.png](assets/image001.jpg)
+![](assets/image001.jpg)
 *Figure 1: Main view of the NewBB Module (Admin side)*
 
 ### Key Features
@@ -50,7 +52,7 @@ This module is for creating a Discussion Forums, aka BBS (Bulletin Boards).
 
 ## How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/newbb-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/newbb-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/newbb-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/newbb-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbook.io/newbb-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/newbb-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
@@ -67,7 +69,7 @@ Editing the book can be done either by updating the markdown files with a text e
 * [Module Credits](book/9credits.md)
 * [About XOOPS CMS](book/10aboutxoops.md)
 
-##License:
+## License:
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />Unless specified, this content is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
