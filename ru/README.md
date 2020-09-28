@@ -2,7 +2,7 @@
 ![](assets/logoXoops.jpg)
 
 # Модуль NewBB (Форумы)
-#### для XOOPS 2.5.9
+#### для XOOPS 2.5.10
       
 ![](assets/logoModule.png)
             
@@ -50,7 +50,7 @@
 
 ## Как внести вклад
 
-[Вы можете участвовать в GitHub](https://github.com/XoopsDocs/newbb-tutorial). Изменения будут [применены на Gitbook.io автоматически](https://www.gitbook.com/book/xoops/newbb-tutorial/activity) когда [основной репозиторий](https://github.com/XoopsDocs/newbb-tutorial) изменения.
+[Вы можете участвовать в GitHub](https://github.com/XoopsDocs/newbb-tutorial). Изменения будут [применены на Gitbook.io автоматически](https://xoops.gitbook.io/newbb-tutorial/activity) когда [основной репозиторий](https://github.com/XoopsDocs/newbb-tutorial) изменения.
 
 Редактирование книги может быть выполнено либо путем обновления файлов разметки с помощью текстового редактора, либо открытия репозитория в [настольном приложении Gitbook](https://github.com/GitbookIO/editor/blob/master/README.md). Приложение для настольных компьютеров предоставит Вам возможность предварительного просмотра.
 

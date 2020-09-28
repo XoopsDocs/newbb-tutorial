@@ -3,17 +3,17 @@
 
 #### _XOOPS Documentation Series_
       
-![](assets/logoModule.png)
+![](en/assets/logoModule.png)
             
 ## Module NewBB \(Discussion Forums\)
 
-**for XOOPS 2.5.7**
+**for XOOPS 2.5.10**
 
 ![logoModule.png](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/assets/logoModule.png)
 
 ### User Manual
 
-![](assets/image001.jpg)
+![](en/assets/image001.jpg)
 *Figure 1: Main view of the NewBB Module (Admin side)*
 
 ### Module Purpose
@@ -55,33 +55,22 @@ This module is for creating a Discussion Forums, aka BBS \(Bulletin Boards\).
 
 ### How to Contribute
 
-[You can contribute on GitHub](https://github.com/XoopsDocs/newbb-tutorial). Changes will be [pushed to Gitbook.io automatically](https://www.gitbook.com/book/xoops/newbb-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/newbb-tutorial) changes.
+[You can contribute on GitHub](https://github.com/XoopsDocs/newbb-tutorial). Changes will be [pushed to Gitbook.io automatically](https://xoops.gitbook.io/newbb-tutorial/activity) when the [main repository](https://github.com/XoopsDocs/newbb-tutorial) changes.
 
 Editing the book can be done either by updating the markdown files with a text editor, or opening the repository in [the Gitbook desktop app](https://github.com/GitbookIO/editor/blob/master/README.md). The desktop app will give you a live preview option.
 
 ## Table of Content
 
-* [Install/Uninstall](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/1install.md)
-* [Administration Menu](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/2administration.md)
-* [Preferences](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/3preferences.md)
-* [Operating Instructions](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/4operations.md)
-* [The User Side](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/5userside.md)
-* [Blocks](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/6blocks.md)
-* [Templates](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/7templates.md)
-* [Miscellaneous](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/8other.md) 
-* [Module Credits](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/9credits.md)
-* [About XOOPS CMS](https://github.com/xoops/newbb-tutorial/tree/54ef6104e66b74e8c6dea683d3cce70ceafdd739/book/10aboutxoops.md)
-
-* [Install/Uninstall](book/1install.md)
-* [Administration Menu](book/2administration.md)
-* [Preferences](book/3preferences.md)
-* [Operating Instructions](book/4operations.md)
-* [The User Side](book/5userside.md)
-* [Blocks](book/6blocks.md)
-* [Templates](book/7templates.md)
-* [Miscellaneous](book/8other.md) 
-* [Module Credits](book/9credits.md)
-* [About XOOPS CMS](book/10aboutxoops.md)
+* [Install/Uninstall](en/book/1install.md)
+* [Administration Menu](en/book/2administration.md)
+* [Preferences](en/book/3preferences.md)
+* [Operating Instructions](en/book/4operations.md)
+* [The User Side](en/book/5userside.md)
+* [Blocks](en/book/6blocks.md)
+* [Templates](en/book/7templates.md)
+* [Miscellaneous](en/book/8other.md) 
+* [Module Credits](en/book/9credits.md)
+* [About XOOPS CMS](en/book/10aboutxoops.md)
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-nc-sa/4.0/)  
 Unless specified, this content is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
